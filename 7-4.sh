@@ -1,0 +1,2 @@
+reyhan@ubuntu:~$ whatis chmod
+
